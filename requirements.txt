@@ -1,0 +1,11 @@
+numpy
+pefile
+pillow
+matplotlib
+scikit-learn
+pandas
+seaborn
+ipython
+jupyter
+requests
+beautifulsoup4
